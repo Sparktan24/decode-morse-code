@@ -79,7 +79,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Cisco-the-wayword/Clinic-Database
+  git clone git@github.com:Sparktan24/decode-morse-code.git
 ```
 
 
